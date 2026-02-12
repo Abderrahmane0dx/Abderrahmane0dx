@@ -100,16 +100,17 @@ I'm a **Computer Science student** at **Université Paris Cité** (Licence 3 Inf
 
 <p align="center">
   <a href="https://github.com/Abderrahmane0dx">
-    <img src="sociale.png" alt="GitHub" />
+    <img src="sociale.png" alt="GitHub" width="48" height="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:benamaraabderrahmane2@gmail.com">
-    <img src="courrier.png" alt="Email" />
+    <img src="courrier.png" alt="Email" width="48" height="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://abderrahmanebenamara.vercel.app/">
-    <img src="www.png" alt="Portfolio" />
+    <img src="www.png" alt="Portfolio" width="48" height="48" />
   </a>
 </p>
-
 ---
 
 <p align="center">
