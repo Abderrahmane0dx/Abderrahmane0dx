@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:benamaraabderrahmane2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Abderrahmane0dx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://abderrahmanebenamara.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -17,11 +17,10 @@
 I'm a **Computer Science student** at **Université Paris Cité** (Licence 3 Informatique), with a strong passion for building **scalable web applications** and solving complex programming challenges.
 
 - 🔭 Currently working on full-stack projects using **MERN/MEVN** stacks
-- 🌱 Expanding my expertise in **Next.js**, **FastAPI**, and **cloud technologies**
-- 🎯 Focus areas: **Frontend development** with React, **Backend APIs** with Node.js & FastAPI
+- 🌱 Expanding my expertise in **React**, **FastAPI**, and **cloud technologies**
+- 🎯 Focus areas: **Frontend development** with React, **Backend APIs** with Node.js & ExpressJs
 - 💡 I love transforming ideas into **clean, responsive, and user-friendly applications**
 - 📚 Former student at **USTHB** (Université des Sciences et de la Technologie Houari Boumedien)
-- 🏆 Baccalaureate graduate with **17.45/20** (Mention Très Bien)
 
 ---
 
@@ -87,25 +86,12 @@ I'm a **Computer Science student** at **Université Paris Cité** (Licence 3 Inf
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 ---
@@ -113,20 +99,16 @@ I'm a **Computer Science student** at **Université Paris Cité** (Licence 3 Inf
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
+  <a href="https://github.com/Abderrahmane0dx">
+    <img src="sociale.png" alt="GitHub" />
   </a>
   <a href="mailto:benamaraabderrahmane2@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" />
+    <img src="courrier.png" alt="Email" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio" />
+  <a href="https://abderrahmanebenamara.vercel.app/">
+    <img src="www.png" alt="Portfolio" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
 
 ---
 
